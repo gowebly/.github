@@ -25,7 +25,7 @@ Special thanks to all our GitHub contributors for bringing this project to life.
 > - Translating content (translate README to another languages);
 > - Go development (creating a new backend templates, writing tests, etc.);
 > - Frontend development (creating a new templates with htmx, hyperscript, 
-> and CSS frameworks).
+> and CSS frameworks);
 > - Docker containerization (build Docker files for the backend part).
 
 If you are available to help on a _voluntary basis_, please contact to 
