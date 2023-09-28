@@ -38,7 +38,7 @@ The `gowebly` project has a number of repositories, some important ones include:
 - [gowebly][gowebly_url]: A next-generation CLI tool for building amazing 
   web apps in Go using htmx & hyperscript
 - [helpers][gowebly_helpers_url]: A most useful helpers for build the best 
-  Go web applications with the `gowebly` CLI.
+  Go web applications with the `gowebly` CLI
 
 <!-- Links -->
 
