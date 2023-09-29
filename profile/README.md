@@ -1,6 +1,6 @@
 # Welcome to the `gowebly` project
 
-✨ A next-generation CLI tool for easily build amazing web applications with 
+🔥 A next-generation CLI tool for easily build amazing web applications with 
 **Go** on the backend, using **htmx** & **hyperscript** and the most popular 
 atomic/utility-first **CSS frameworks** on the frontend.
 
