@@ -4,8 +4,10 @@
 **Go** on the backend, using **htmx** & **hyperscript** and the most popular 
 atomic/utility-first **CSS frameworks** on the frontend.
 
-> Project originally developed in the middle of 2023 by 
-> [Vic Shóstak][vic_shostak_url] (_who still works on it today_).
+Project originally developed in the middle of 2023 by 
+[Vic Shóstak][vic_shostak_url] (_who still works on it today_).
+
+<img width="100%" alt="gowebly logo" src="https://github.com/gowebly/gowebly/assets/11155743/55c80da2-30c6-45e7-a813-1ddc42764480">
 
 ## Get started
 
