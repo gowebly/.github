@@ -7,7 +7,7 @@ atomic/utility-first **CSS frameworks** on the frontend.
 Project originally developed in the middle of 2023 by 
 [Vic Shóstak][vic_shostak_url] (_who still works on it today_).
 
-<img width="100%" alt="gowebly logo" src="https://github.com/gowebly/.github/blob/a8ae889ed2c5baefcd307ad4505161f98f75669f/images/gowebly-banner-logo.png">
+<img width="100%" alt="gowebly logo" src="https://raw.githubusercontent.com/gowebly/.github/main/images/gowebly-banner-logo.png">
 
 ## Get started
 
