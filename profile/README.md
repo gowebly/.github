@@ -4,7 +4,7 @@
 
 Project originally developed in the middle of 2023 by [Vic Shóstak][vic_shostak_url] and the [True Web Artisans][true_web_artisans_url] team (_who still works on it today_).
 
-<img width="100%" alt="gowebly logo" src="https://raw.githubusercontent.com/gowebly/.github/main/images/gowebly-banner-logo.png">
+<img width="100%" alt="gowebly logo" src="https://raw.githubusercontent.com/gowebly/.github/main/images/gowebly-project-banner.svg">
 
 ## Get started
 
