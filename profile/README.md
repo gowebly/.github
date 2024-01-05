@@ -2,9 +2,9 @@
 
 🔥 A next-generation CLI tool for easily build amazing web applications with **Go** on the backend, using **htmx** & **hyperscript** and the most popular atomic/utility-first **CSS frameworks** on the frontend.
 
-Project originally developed in 2023 by [Vic Shóstak][vic_shostak_url] (_who still works on it today_).
+<a href="https://github.com/gowebly/gowebly" target="_blank"><img width="99%" alt="gowebly logo" src="https://raw.githubusercontent.com/gowebly/.github/main/images/gowebly_create.gif"></a>
 
-<a href="https://github.com/gowebly/gowebly" target="_blank"><img width="99%" alt="gowebly logo" src="https://raw.githubusercontent.com/gowebly/.github/main/images/gowebly-project-banner.svg"></a>
+Project originally developed in 2023 by [Vic Shóstak][vic_shostak_url] (_who still works on it today_).
 
 ## Get started
 
